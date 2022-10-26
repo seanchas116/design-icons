@@ -41,7 +41,7 @@ async function generateIcons(cwd: string): Promise<void> {
   }
 }
 
-const iconsDir = path.resolve(__dirname, "svg");
+const iconsDir = path.resolve(__dirname, "../svg");
 
 async function run() {
   await generateIcons(iconsDir);
