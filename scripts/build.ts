@@ -2,16 +2,17 @@ import path from "path";
 import fs from "fs";
 import util from "util";
 import _glob from "glob";
-import dedent from "dedent";
 import { ElementNode, parse } from "svg-parser";
 
 const glob = util.promisify(_glob);
 
-async function generateIcons(cwd: string): Promise<void> {
+async function generateIcons(): Promise<void> {
+  const cwd = path.resolve(__dirname, "../svg");
+
   const files = await glob("**/*.svg", { cwd });
   for (const file of files) {
     const filePath = path.resolve(cwd, file);
-    const basePath = filePath.slice(0, -4);
+    const baseName = path.basename(file, ".svg");
     const svgText = fs.readFileSync(filePath, { encoding: "utf-8" });
     const rootNode = parse(svgText);
     const svgNode = rootNode.children[0] as ElementNode;
@@ -27,24 +28,14 @@ async function generateIcons(cwd: string): Promise<void> {
       "</g>";
 
     fs.writeFileSync(
-      `${basePath}.ts`,
-      dedent`
-        import { IconifyIcon } from '@iconify/types';
-        const data: IconifyIcon = {
-          body: \`${body}\`,
-          width: ${width},
-          height: ${height},
-        };
-        export default data;
-      `
+      path.resolve(__dirname, "../json", `${baseName}.json`),
+      JSON.stringify({ body, width, height }, null, 2)
     );
   }
 }
 
-const iconsDir = path.resolve(__dirname, "../svg");
-
 async function run() {
-  await generateIcons(iconsDir);
+  await generateIcons();
 }
 
 run().finally(() => {});
