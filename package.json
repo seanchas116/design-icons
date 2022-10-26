@@ -6,7 +6,7 @@
     "svg"
   ],
   "scripts": {
-    "build": "ts-node build.ts",
+    "build": "ts-node scripts/build.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
