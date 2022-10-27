@@ -2,7 +2,7 @@
 
 <p align="center"><img src="thumbnails.svg"></p>
 
-design-icons is a collection of icons for use in design tools.
+design-icons is a small collection of icons for use in design tools.
 
 The icons are originally used in [Macaron](https://macaron-elements.com/), a design tool for creating web pages.
 
