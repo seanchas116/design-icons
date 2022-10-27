@@ -1,12 +1,12 @@
 # design-icons
 
+<p align="center"><img src="thumbnails.svg"></p>
+
 design-icons is a collection of icons for use in design tools.
 
 The icons are originally used in [Macaron](https://macaron-elements.com/), a design tool for creating web pages.
 
 Each icon is 24x24px sized and has 2px stroke. You can combine this icon set with other popular ones with the same proportion like Material Symbols with 400 weight.
-
-TODO: generate icon thumbnails
 
 ## Installation
 
