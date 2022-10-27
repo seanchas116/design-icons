@@ -6,6 +6,8 @@ The icons are originally used in [Macaron](https://macaron-elements.com/), a des
 
 Each icon is 24x24px sized and has 2px stroke. You can combine this icon set with other popular ones with the same proportion like Material Symbols with 400 weight.
 
+TODO: generate icon thumbnails
+
 ## Installation
 
 ```bash
