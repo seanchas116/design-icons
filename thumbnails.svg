@@ -128,42 +128,42 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M19 8H16C15.4477 8 15 8.44772 15 9V15C15 15.5523 15.4477 16 16 16H19C19.5523 16 20 15.5523 20 15V9C20 8.44772 19.5523 8 19 8ZM16 6C14.3431 6 13 7.34315 13 9V15C13 16.6569 14.3431 18 16 18H19C20.6569 18 22 16.6569 22 15V9C22 7.34315 20.6569 6 19 6H16Z" fill="currentColor"/>
 
 </g></g><g transform="translate(192, 64)"><g fill="none">
-<rect x="3" y="6" width="18" height="12" rx="3" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
-<rect x="6" y="9" width="2" height="6" fill="currentColor"/>
-
-</g></g><g transform="translate(224, 64)"><g fill="none">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M15.1253 6.87825C13.9925 6.18701 12.6625 5.89082 11.3434 6.03603C10.0244 6.18125 8.79065 6.75967 7.83535 7.68078C6.88005 8.60189 6.25707 9.81372 6.0639 11.1266C5.87073 12.4395 6.11828 13.7794 6.76779 14.9367C7.41731 16.0939 8.43215 17.0032 9.6535 17.5221C10.8748 18.0411 12.2338 18.1406 13.5177 17.8049C14.8016 17.4692 15.938 16.7174 16.749 15.667C17.5601 14.6166 18 13.327 18 12H20C20 13.7694 19.4134 15.4889 18.332 16.8893C17.2506 18.2898 15.7354 19.2923 14.0236 19.7398C12.3117 20.1874 10.4998 20.0548 8.87133 19.3628C7.24286 18.6709 5.88974 17.4585 5.02372 15.9156L5.8756 15.4374L5.02372 15.9156C4.1577 14.3726 3.82765 12.5861 4.0852 10.8355C4.34276 9.08496 5.1734 7.46918 6.44713 6.24104C7.72087 5.01289 9.36582 4.24166 11.1246 4.04804C12.8834 3.85443 14.6567 4.24934 16.1671 5.171L15.1253 6.87825Z" fill="currentColor"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7071 5.20711L12 14.9142L8.29289 11.2071L9.70711 9.79289L12 12.0858L20.2929 3.79289L21.7071 5.20711Z" fill="currentColor"/>
 
-</g></g><g transform="translate(256, 64)"><g fill="none">
+</g></g><g transform="translate(224, 64)"><g fill="none">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M9 5H5V9H9V5ZM3 3V11H11V3H3Z" fill="currentColor"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M19 5H15V9H19V5ZM13 3V11H21V3H13Z" fill="currentColor"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M9 15H5V19H9V15ZM3 13V21H11V13H3Z" fill="currentColor"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M19 15H15V19H19V15ZM13 13V21H21V13H13Z" fill="currentColor"/>
 
-</g></g><g transform="translate(288, 64)"><g fill="none">
+</g></g><g transform="translate(256, 64)"><g fill="none">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M10 5H18V8H15.6415L11.6415 17H14V20H6V17H8.35852L12.3585 8H10V5Z" fill="currentColor"/>
 
-</g></g><g transform="translate(0, 96)"><g fill="none">
+</g></g><g transform="translate(288, 64)"><g fill="none">
 <rect x="11" y="2" width="2" height="20" fill="currentColor"/>
 <rect x="5" y="6" width="5" height="12" fill="currentColor"/>
 <rect x="14" y="6" width="5" height="12" fill="currentColor"/>
 
-</g></g><g transform="translate(32, 96)"><g fill="none">
+</g></g><g transform="translate(0, 96)"><g fill="none">
 <rect x="20" y="2" width="2" height="20" fill="currentColor"/>
 <rect x="8" y="6" width="5" height="12" fill="currentColor"/>
 <rect x="14" y="6" width="5" height="12" fill="currentColor"/>
 
-</g></g><g transform="translate(64, 96)"><g fill="none">
+</g></g><g transform="translate(32, 96)"><g fill="none">
 <rect x="2" y="2" width="2" height="20" fill="currentColor"/>
 <rect x="20" y="2" width="2" height="20" fill="currentColor"/>
 <rect x="5" y="6" width="5" height="12" fill="currentColor"/>
 <rect x="14" y="6" width="5" height="12" fill="currentColor"/>
 
-</g></g><g transform="translate(96, 96)"><g fill="none">
+</g></g><g transform="translate(64, 96)"><g fill="none">
 <rect x="2" y="2" width="2" height="20" fill="currentColor"/>
 <rect x="5" y="6" width="5" height="12" fill="currentColor"/>
 <rect x="11" y="6" width="5" height="12" fill="currentColor"/>
+
+</g></g><g transform="translate(96, 96)"><g fill="none">
+<rect x="3" y="6" width="18" height="12" rx="3" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+<rect x="6" y="9" width="2" height="6" fill="currentColor"/>
 
 </g></g><g transform="translate(128, 96)"><g fill="none">
 <mask id="mask0_1060_25" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="5" y="5" width="14" height="14">
@@ -310,21 +310,21 @@
 <path d="M15.8376 14.06C15.5016 14.06 15.1976 14.006 14.9256 13.898C14.6536 13.79 14.4196 13.638 14.2236 13.442C14.0276 13.246 13.8776 13.016 13.7736 12.752C13.6696 12.484 13.6176 12.194 13.6176 11.882C13.6176 11.57 13.6716 11.284 13.7796 11.024C13.8916 10.76 14.0496 10.53 14.2536 10.334C14.4576 10.138 14.6976 9.986 14.9736 9.878C15.2536 9.77 15.5576 9.716 15.8856 9.716C16.1176 9.716 16.3356 9.746 16.5396 9.806C16.7476 9.866 16.9356 9.948 17.1036 10.052C17.2716 10.156 17.4136 10.276 17.5296 10.412L16.9116 11.066C16.8116 10.97 16.7076 10.89 16.5996 10.826C16.4956 10.762 16.3836 10.712 16.2636 10.676C16.1436 10.636 16.0156 10.616 15.8796 10.616C15.7036 10.616 15.5416 10.648 15.3936 10.712C15.2496 10.776 15.1216 10.866 15.0096 10.982C14.9016 11.094 14.8176 11.228 14.7576 11.384C14.6976 11.536 14.6676 11.702 14.6676 11.882C14.6676 12.062 14.6996 12.23 14.7636 12.386C14.8276 12.542 14.9156 12.678 15.0276 12.794C15.1396 12.906 15.2716 12.996 15.4236 13.064C15.5796 13.128 15.7456 13.16 15.9216 13.16C16.0456 13.16 16.1616 13.14 16.2696 13.1C16.3816 13.06 16.4776 13.006 16.5576 12.938C16.6376 12.87 16.7016 12.79 16.7496 12.698C16.7976 12.602 16.8216 12.5 16.8216 12.392V12.236L16.9536 12.44H15.7956V11.642H17.7696C17.7776 11.686 17.7836 11.746 17.7876 11.822C17.7916 11.898 17.7936 11.972 17.7936 12.044C17.7976 12.116 17.7996 12.17 17.7996 12.206C17.7996 12.478 17.7496 12.728 17.6496 12.956C17.5536 13.18 17.4176 13.374 17.2416 13.538C17.0656 13.702 16.8576 13.83 16.6176 13.922C16.3776 14.014 16.1176 14.06 15.8376 14.06Z" fill="black"/>
 
 </g></g><g transform="translate(64, 192)"><g fill="none">
-<circle cx="9" cy="12" r="4" fill="currentColor"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M15 6H9C5.68629 6 3 8.68629 3 12C3 15.3137 5.68629 18 9 18H15C18.3137 18 21 15.3137 21 12C21 8.68629 18.3137 6 15 6ZM9 4C4.58172 4 1 7.58172 1 12C1 16.4183 4.58172 20 9 20H15C19.4183 20 23 16.4183 23 12C23 7.58172 19.4183 4 15 4H9Z" fill="currentColor"/>
-
-</g></g><g transform="translate(96, 192)"><g fill="none">
 <rect x="4" y="4" width="16" height="16" rx="3" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
 <rect x="7" y="7" width="2" height="6" fill="currentColor"/>
 
-</g></g><g transform="translate(128, 192)"><g fill="none">
+</g></g><g transform="translate(96, 192)"><g fill="none">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6 5H9.4C8.24689 5 7.50235 5.00156 6.93567 5.04785C6.39235 5.09225 6.19091 5.1676 6.09202 5.21799C5.71569 5.40973 5.40973 5.71569 5.21799 6.09202C5.1676 6.19091 5.09225 6.39235 5.04785 6.93567C5.00156 7.50235 5 8.24689 5 9.4V14.6C5 15.7531 5.00156 16.4977 5.04785 17.0643C5.09225 17.6077 5.1676 17.8091 5.21799 17.908C5.40973 18.2843 5.71569 18.5903 6.09202 18.782C6.19091 18.8324 6.39235 18.9078 6.93567 18.9521C7.50235 18.9984 8.24689 19 9.4 19H14.6C15.7531 19 16.4977 18.9984 17.0643 18.9521C17.6077 18.9078 17.8091 18.8324 17.908 18.782C18.2843 18.5903 18.5903 18.2843 18.782 17.908C18.8324 17.8091 18.9078 17.6077 18.9521 17.0643C18.9984 16.4977 19 15.7531 19 14.6V9.4C19 8.24689 18.9984 7.50235 18.9521 6.93567C18.9078 6.39235 18.8324 6.19091 18.782 6.09202C18.5903 5.71569 18.2843 5.40973 17.908 5.21799C17.8091 5.1676 17.6077 5.09225 17.0643 5.04785C16.4977 5.00156 15.7531 5 14.6 5ZM3.43597 5.18404C3 6.03969 3 7.15979 3 9.4V14.6C3 16.8402 3 17.9603 3.43597 18.816C3.81947 19.5686 4.43139 20.1805 5.18404 20.564C6.03969 21 7.15979 21 9.4 21H14.6C16.8402 21 17.9603 21 18.816 20.564C19.5686 20.1805 20.1805 19.5686 20.564 18.816C21 17.9603 21 16.8402 21 14.6V9.4C21 7.15979 21 6.03969 20.564 5.18404C20.1805 4.43139 19.5686 3.81947 18.816 3.43597C17.9603 3 16.8402 3 14.6 3H9.4C7.15979 3 6.03969 3 5.18404 3.43597C4.43139 3.81947 3.81947 4.43139 3.43597 5.18404Z" fill="currentColor"/>
 <rect x="7" y="7" width="10" height="2" fill="currentColor"/>
 <rect x="11" y="9" width="2" height="8" fill="currentColor"/>
 
-</g></g><g transform="translate(160, 192)"><g fill="none">
+</g></g><g transform="translate(128, 192)"><g fill="none">
 <rect x="4" y="5" width="16" height="2" fill="currentColor"/>
 <rect x="11" y="7" width="2" height="13" fill="currentColor"/>
+
+</g></g><g transform="translate(160, 192)"><g fill="none">
+<circle cx="9" cy="12" r="4" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15 6H9C5.68629 6 3 8.68629 3 12C3 15.3137 5.68629 18 9 18H15C18.3137 18 21 15.3137 21 12C21 8.68629 18.3137 6 15 6ZM9 4C4.58172 4 1 7.58172 1 12C1 16.4183 4.58172 20 9 20H15C19.4183 20 23 16.4183 23 12C23 7.58172 19.4183 4 15 4H9Z" fill="currentColor"/>
 
 </g></g><g transform="translate(192, 192)"><g fill="none">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M5 5V9H19V5H5ZM3 11H21V3H3V11Z" fill="currentColor"/>
