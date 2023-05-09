@@ -1,25 +1,26 @@
 {
   "name": "@seanchas116/design-icons",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Icon set for design tools",
-  "files": [
-    "svg",
-    "json"
-  ],
-  "scripts": {
-    "build": "ts-node scripts/build.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "homepage": "https://github.com/seanchas116/design-icons#readme",
+  "bugs": {
+    "url": "https://github.com/seanchas116/design-icons/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/seanchas116/design-icons.git"
   },
-  "author": "Ryohei Ikegami",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/seanchas116/design-icons/issues"
+  "author": "Ryohei Ikegami",
+  "main": "index.js",
+  "files": [
+    "svg",
+    "index.js"
+  ],
+  "scripts": {
+    "build": "ts-node scripts/build.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/seanchas116/design-icons#readme",
   "devDependencies": {
     "@types/dedent": "^0.7.0",
     "@types/glob": "^8.0.0",
