@@ -25,7 +25,7 @@
     "@types/glob": "^8.1.0",
     "@types/svg-parser": "^2.0.3",
     "dedent": "^1.5.1",
-    "glob": "^10.3.3",
+    "glob": "^10.3.4",
     "svg-parser": "^2.0.4",
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
