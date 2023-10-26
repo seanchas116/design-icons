@@ -21,9 +21,9 @@
     "build": "ts-node scripts/build.ts"
   },
   "devDependencies": {
-    "@types/dedent": "^0.7.0",
+    "@types/dedent": "^0.7.1",
     "@types/glob": "^8.1.0",
-    "@types/svg-parser": "^2.0.4",
+    "@types/svg-parser": "^2.0.5",
     "dedent": "^1.5.1",
     "glob": "^10.3.10",
     "svg-parser": "^2.0.4",
