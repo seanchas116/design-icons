@@ -1,6 +1,6 @@
 {
   "name": "@seanchas116/design-icons",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Icon set for design tools",
   "homepage": "https://github.com/seanchas116/design-icons#readme",
   "bugs": {
@@ -15,7 +15,8 @@
   "main": "index.js",
   "files": [
     "svg",
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "scripts": {
     "build": "ts-node scripts/build.ts"
